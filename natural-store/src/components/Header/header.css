@@ -1,0 +1,102 @@
+.phlogo{
+    width: 150px;
+}
+.cream{
+    width: 500px;
+    position: absolute;
+    right: 20%;
+    top:15%
+}
+.letter{
+width: 400px;
+position: absolute;
+right: 10%;
+top:16%
+}
+.para{
+    position: relative;
+    left: 12%;
+
+}
+.photo{
+    width: 480px;
+    position:relative;
+    left: 10%;
+    top :auto
+}
+.alovira1{
+    width: 400px;
+    right: 7%;
+    top: 48%;
+position: absolute;
+
+}
+.alovira2{
+transform: scaleX(-1);
+    width: 325px;
+    left:-110px;
+    top:15%;
+    position: absolute;
+}
+.alovira3{
+    transform: scaleX(-1) rotate(30deg) ;
+    width: 225px;
+    left: 32%;
+    top: 48%;
+    position: absolute;
+}
+.cobtn{
+background-color: rgb(65, 134, 0);
+color: aliceblue;
+font-size: 20px;
+border-radius: 30px;
+width: 180px;
+height: 50px;
+position: absolute;
+left: 15%;
+text-decoration: none;
+}
+.header{
+    background-color: rgb(254, 250, 239, 255);  
+    height: 636px;
+}
+.cobtn:hover
+{
+background-color: aliceblue;
+color:rgb(65, 134, 0);
+transition: 0.4s;
+}
+.right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: 3%;
+    top: 42%;
+    border-radius: 100px;
+    font-size: large;
+}
+.right:hover{
+    background-color: aliceblue;
+    color:rgb(65, 134, 0);
+    transition: 0.4s;   
+}
+.left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 3%;
+    top: 42%;
+    border-radius: 100px;
+    font-size: large;
+}
+.left:hover{
+    background-color: aliceblue;
+color:rgb(65, 134, 0);
+transition: 0.4s;
+}
