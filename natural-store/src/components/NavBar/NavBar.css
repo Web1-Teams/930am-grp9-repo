@@ -1,0 +1,51 @@
+.nav-bar{
+    background-color: rgb(254 250 239);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    }
+    
+    .nav-bar img{
+      width: 10%; 
+      height: 10%;
+    }
+    
+    .pages{
+        display: flex;
+        align-items: center;
+        font-size:x-large;
+    }
+    
+    .pages a{
+        color:rgb(17 17 17);
+        text-decoration: none;
+        font-weight: bold;
+        display: flex;
+        margin:0 40px
+    }
+    
+    .search{
+        display: flex;
+        align-items: center;
+        border-bottom: 3px solid ;
+        background-color:rgb(233, 233, 233);
+        height: 35px;
+      }
+    
+    .search input[type="search"] {
+      border: none;
+      outline: none;
+      background-color:rgb(233, 233, 233);
+    }
+    
+    .search button {
+      background: none;
+      border: none;
+    }
+    
+    .search button img {
+        width: 20px;
+        height: 20px;
+      }
+    
+      
