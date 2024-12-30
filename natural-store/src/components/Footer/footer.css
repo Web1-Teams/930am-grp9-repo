@@ -1,90 +1,39 @@
-.company h3 {
-    font-size: 16px;
-    margin-bottom: 10px;
-}
-
-.company a {
-    
-    text-decoration: none;
-    color: #333;
+.Footer {
+background-color:#ECE8DD;
+height: 150px;
 
 }
-.OurCommitments h3 {
-    font-size: 16px;
-    margin-bottom: 10px;
+
+.rights {
+
+    color: #456A2C;
+    position: relative;
+    top: 30%;
+    left: 29.45%;
+    font-size: 22px;
 }
 
-.OurCommitments a {
-    text-decoration: none;
-    color: #333;
-}
-.Location h3{
 
-    font-size: 16px;
-    margin-bottom: 10px;
+.x {
+    position: relative;
+    top: 35%;
+    left: 81%;
 }
-.Location a{
 
-    text-decoration: none;
-    color: #333;
+.insta {
+    position: relative;
+    top: 35%;
+    left: 83%;
 }
-.CustomerCare{
-    margin-inline-start: 250px;
-    position:absolute ;
-    top: 1765px;
 
+.youtube {
+    position: relative;
+    top: 33%;
+    left: 85%;
 }
-.CustomerCare h3 {
-    font-size: 16px;
-    margin-bottom: 10px;
-    
-}
-.CustomerCare a {
-    text-decoration: none;
-    color: #333;
-}
-.GiftCards{
-    margin-inline-start: 250px;
-    position: absolute;
-    top: 1890px;
 
+.tiktok {
+    position: relative;
+    top: 35%;
+    left: 87%;
 }
-.GiftCards h3 {
-    font-size: 16px;
-    margin-bottom: 10px;
-}
-.GiftCards a{
-    text-decoration: none;
-    color: #333;
-}
-.ContactUs{
-    margin-inline-start: 550px;
-    position:absolute ;
-    top: 1765px;
-}
-.ContactUs{
-    font-size: 13px;
-    margin-bottom: 10px;
-}
-.StayInTouch{
-    margin-inline-start:800px;
-    position:absolute ;
-    top: 1765px;
-}
-.StayInTouch p{
-    font-size: 12px;
-    color: #777;
-    line-height: 1.6;
-    margin: 20px 0;
-  }
-  .StayInTouch {
-    font-family: Arial, sans-serif;
-    background-color: #f9f9f9;
-    padding: 20px;
-    text-align: center;
-  }
-  .me a{
-    font-size: 10px;
-    text-decoration: none;
-    color: #333;
-  }

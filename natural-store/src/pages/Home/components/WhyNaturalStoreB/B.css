@@ -1,0 +1,103 @@
+.Why-natural-storeB{
+    background-color: #FEFAEF;
+    height:1388px;
+    
+    }
+    
+    #distributort{
+    display: flex;
+    font-size: 29px;
+    color: #4A732F;
+    position: relative;
+    top: 8%;
+    left :34% 
+    
+    
+    
+    
+    
+    }
+    
+    #distributor{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+    
+    }
+    #sephora{
+    
+    
+   position: absolute;
+   right:70%;
+   top: 370%;
+
+    
+    
+    }
+    
+     #bath{
+    
+     
+        position: absolute;
+        right:38%;
+        top: 370%;
+     
+     }
+     #watsons{
+    
+      
+        position: absolute;
+        right:6%;
+        top: 370%;
+     }
+    
+   
+    #tar{
+     position: relative;
+       left: 4.5%;
+       color: #4A732F;
+       font-size: 29px;
+    
+    }
+    #par{
+        position: relative;
+       left: 4.5%;
+        color: rgba(78, 78, 78, 0.815);
+    
+    }
+    .shop {
+        position: relative;
+       left: 4.5%;
+        color: #4A732F;
+        border: 2px solid #4A732F;
+        border-radius: 25px; 
+        padding: 10px 20px; 
+        background-color: #FEFAEF; 
+        cursor: pointer; 
+       
+    }
+    
+    .shop:hover {
+        background-color: #4A732F;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+
+        color: white;
+    
+    }
+    #m{
+    
+    margin-top: -15%;
+    
+    
+    
+    }
+
+    #alwaysNatural{
+        position: relative;
+        left: 65%;
+
+    }
+
+    

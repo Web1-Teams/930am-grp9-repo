@@ -1,0 +1,138 @@
+
+  .Container {
+    
+    background-color: #111111;
+    height:900px;
+     
+  
+  
+  
+  }
+  
+  h5 {
+  font-size: 50px;
+  color: #FEFAEF;
+  position: absolute;
+  top:104%;
+  right:34%;
+  font-weight: normal;
+  letter-spacing: 20px;
+  
+  }
+  
+  .all-cards {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: 10px;
+      background-color: #111111;
+      margin: 0;
+      padding: 20px;
+      color: #FEFAEF;
+   
+    }
+    
+    .product-card {
+      width:300px;
+      height: 550px;
+      padding: 20px;
+      text-align: left;
+      margin-top: 225px;
+  
+  
+  
+    }
+    
+    .image-container {
+      width: 300px;
+      height: 300px;
+      background-color: #333333;
+  
+  
+    }
+    
+    
+    .all-text {
+      margin-top: -20px;
+    }
+  
+  
+  
+    h6 {
+      font-size: 16.6px;
+      font-weight: normal;
+      margin-bottom: -4px;
+    }
+  
+    
+    
+    .rating {
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+    
+    .star {
+      color: #FFF240;
+    }
+    
+    .rate-num {
+      color: #FEFAEF;
+    }
+    
+    .reviews {
+      color: #5D5D5D;
+      font-size: 15px;
+    }
+  
+    
+    .description {
+      font-size: 12px;
+      color: #AFAFAF;
+      margin-bottom: 15px;
+    }
+    
+    .size-options {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 15px;
+      font-size: 16px;
+  
+    }
+    
+    .size {
+      cursor: pointer;
+      color:#5D5D5D;
+  
+    }
+    
+    .size.selected {
+      text-decoration: underline;
+      font-weight: bold;
+      color: #FEFAEF;
+    }
+    
+    .add-to-cart-container {
+      text-align: center;
+    }
+    
+    .add-to-cart {
+      background-color: #191919;
+      color: #FEFAEF;
+      border: 1px solid #5D5D5D;
+      padding: 10px 100px;
+      border-radius: 14px;
+      cursor: pointer;
+      font-size: 14px;
+
+      transition: background-color 0.3s ease, transform 0.2s ease;
+    }
+    
+    .add-to-cart:hover {
+      background-color: #242424;
+      color:#cb7926;
+      text-shadow:   0 0 10px #824e1a,
+                     0 0 20px #663c11,
+                     0 0 30px #824e1a;
+      transform: scale(1.05);
+    }
+  

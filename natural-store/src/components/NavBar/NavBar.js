@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './NavBar.css';
 
 const NavBar = () => {
@@ -8,28 +9,33 @@ return (
 
     
     <nav className="nav-bar">
-        <img src="national store.png" alt="logo national store"/>
-        
+      
+
         <div className="pages">    
-            <a href="Skincare.html">Skincare</a>
-            <a href="Haircare.html">Haircare</a>
-            <a href="Supplements.html">Supplements</a>
-            <a href="Health.html">Health</a>
+            <ul>
+          <li><Link to="/">Home</Link></li>
+          <li><Link to="/skincare">Skincare</Link></li>
+          <li><Link to="/haircare">Haircare</Link></li>
+          <li><Link to="/supplements">Supplements</Link></li>
+          </ul>
+        
         </div>    
         
-        <div class="search"> 
+        <div className="search">
+
             <button>
-                <img src="search-icon.png" alt="search icon"/>
+            <img src="/assets/search.png" alt="search-icon"/>
             </button>
-            <input type="search" placeholder="Search..."/>
+
+            <input type="search" placeholder="search..."/>
         </div>
 
     </nav>
 
 
 
-)
+);
 
-}
+};
 
 export default NavBar;
