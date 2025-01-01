@@ -1,0 +1,33 @@
+.header{
+    margin:0;
+    font-family: Arial, sans-serif;
+    background-color: #f7f5ee;
+}
+
+.nav-trail{
+    margin:30px 30px;
+    font-size: 16px;
+}
+
+.nav-trail-1{
+    text-decoration: none;
+    color:#7d7d7d
+}
+
+.hero-section{
+   position: relative;
+   height: 400px;
+}
+
+.supplement-img{
+   width: 100%;
+   
+}
+
+.img0{
+    position:absolute;
+    bottom:1px;
+    right: 25%;
+    width: 50%;
+    height: auto;
+}

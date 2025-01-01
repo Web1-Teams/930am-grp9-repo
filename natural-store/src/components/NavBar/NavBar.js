@@ -8,10 +8,10 @@ return (
 
 
     
-    <nav className="nav-bar">
+    <nav classNameName="nav-bar">
       
 
-        <div className="pages">    
+        <div classNameName="pages">    
             <ul>
           <li><Link to="/">Home</Link></li>
           <li><Link to="/skincare">Skincare</Link></li>
@@ -21,7 +21,7 @@ return (
         
         </div>    
         
-        <div className="search">
+        <div classNameName="search">
 
             <button>
             <img src="/assets/search.png" alt="search-icon"/>
