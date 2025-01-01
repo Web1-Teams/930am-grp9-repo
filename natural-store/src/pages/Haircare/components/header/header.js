@@ -5,17 +5,17 @@ const Header = () => {
 
 return(
 
-    <header className="header">
+    <header classNameName="header">
         
     <br/>
-    <div className="nav-trail">
-        <a className="nav-trail-1" href="Home.html">Home  </a><b> Haircare</b>
+    <div classNameName="nav-trail">
+        <a classNameName="nav-trail-1" href="Home.html">Home  </a><b> Haircare</b>
         <hr/>
     </div>
    
-    <div className="interface-section">
-        <img className="haircare-img" src="Haircare.png" alt="supplement"/>
-        <img className="img0" src="3creams.png" alt="pill_jar_mockup"/>
+    <div classNameName="interface-section">
+        <img classNameName="haircare-img" src="Haircare.png" alt="supplement"/>
+        <img classNameName="img0" src="3creams.png" alt="pill_jar_mockup"/>
     </div>
     
 </header>

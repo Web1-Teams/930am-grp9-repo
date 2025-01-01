@@ -5,13 +5,13 @@ const Header = () => {
 
 return(
 
-    <header className='header'>
-        <div class="circle-button">
+    <header classNameName='header'>
+        <div className="circle-button">
           <img src="/assets/Path 21.png" alt="Arrow Icon"/>
              </div>
-        <img src="/assets/logoHeader.png" className="header-logo"/>
+        <img src="/assets/logoHeader.png" classNameName="header-logo"/>
 
-<p className='para'>At Natural Store, we are committed to providing you with the finest all- <br/>
+<p classNameName='para'>At Natural Store, we are committed to providing you with the finest all- <br/>
 natural products for a healthier and more vibrant lifestyle. From our  <br/>
 exclusive range of skin care, hair care, and supplements to carefully  <br/>
 curated partner products, we ensure everything meets our high <br/>
@@ -21,16 +21,16 @@ standards of quality and sustainability.<br/>
 
 
 
-<img src="/assets/s.png" className="letter"/>
-<img src="/assets/jar.png" className="jar"/>
-<img src="/assets/alov1.png" className="alovira1"/>
-<img src="/assets/alov2.png" className="alovira2"/>
-<img src="/assets/alov3.png" className="alovira3"/>
+<img src="/assets/s.png" classNameName="letter"/>
+<img src="/assets/jar.png" classNameName="jar"/>
+<img src="/assets/alov1.png" classNameName="alovira1"/>
+<img src="/assets/alov2.png" classNameName="alovira2"/>
+<img src="/assets/alov3.png" classNameName="alovira3"/>
 
 
 
-<button className="shop-slowly-button">SHOP SLOWLY</button>
-<span className="ns">%100 NATURAL SOURCES</span>
+<button classNameName="shop-slowly-button">SHOP SLOWLY</button>
+<span classNameName="ns">%100 NATURAL SOURCES</span>
 
 
 </header>

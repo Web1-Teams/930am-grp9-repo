@@ -6,7 +6,7 @@ const WhyNaturalStoreB = () => {
 return (
 
    
-    <div className='Why-natural-storeB'>
+    <div classNameName='Why-natural-storeB'>
 
 
      <img alt="typogrphy style" src="/assets/Group 20.png" id="alwaysNatural"/>
@@ -29,7 +29,7 @@ return (
   
   </div>
   
-      <button class="shop">SHOP NOW</button>
+      <button className="shop">SHOP NOW</button>
   
   
   </div>
@@ -43,18 +43,18 @@ return (
               
               <a id="a" href ="https://www.sephora.com/" target="_blank" title="go to https://www.sephora.com"> 
                   <div id = "sephora"> 
-                  <img alt="This picture is of a person applying cream to his face" src="/assets/Group 15.png"  className="imgS"/>
+                  <img alt="This picture is of a person applying cream to his face" src="/assets/Group 15.png"  classNameName="imgS"/>
                   </div>
               </a>
             
               <a id="b" href ="https://www.bathandbodyworks.com/?srsltid=AfmBOorrTqv9WNhdMkwtCgk8Kk_OQdP8qRjkAYi9TmLVQQa1OZVchcXZ" target="_blank" title="go to https://www.bathandbodyworks.com"> 
                   <div id = "bath"> 
-                  <img alt="This picture is of a person applying cream to his face" src="/assets/Group 16.png"  className="imgB"/>
+                  <img alt="This picture is of a person applying cream to his face" src="/assets/Group 16.png"  classNameName="imgB"/>
                   </div>
               </a>
               <a id="c" href ="https://www.watsons.com.tr" target="_blank" title="go to https://www.watsons.com"> 
                   <div id = "watsons"> 
-                  <img alt="This picture is of a person applying cream to his face" src="/assets/Group 17.png"  className="imgW"/>
+                  <img alt="This picture is of a person applying cream to his face" src="/assets/Group 17.png"  classNameName="imgW"/>
 
                   </div>
               </a>

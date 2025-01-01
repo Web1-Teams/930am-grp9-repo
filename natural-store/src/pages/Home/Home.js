@@ -5,7 +5,7 @@ import WhyNaturalStoreB from './components/WhyNaturalStoreB/B';
 import './Home.css';
 function Home() {
     return (
-      <div className="home-page">
+      <div classNameName="home-page">
         <Header />
         <BestSellers />
         <WhyNaturalStoreA />

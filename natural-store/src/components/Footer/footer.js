@@ -6,24 +6,24 @@ const Footer = () => {
 return (
 <footer>
 
-<div className='Footer'>
+<div classNameName='Footer'>
  
-<img alt="x" src="/assets/x.png" className="x"/>
+<img alt="x" src="/assets/x.png" classNameName="x"/>
 
 
-<img alt="insta" src="/assets/Icon akar-instagram-fill.png" className="insta"/>
-
-
-
-
-<img alt="youtube" src="/assets/Icon corebrands-youtube.png" className="youtube" />
+<img alt="insta" src="/assets/Icon akar-instagram-fill.png" classNameName="insta"/>
 
 
 
-<img alt="tiktok" src="/assets/Icon akar-tiktok-fill.png" className="tiktok" />
+
+<img alt="youtube" src="/assets/Icon corebrands-youtube.png" classNameName="youtube" />
 
 
-<span className="rights">© Natural Store Group Inc. 2024. All rights reserved.</span>
+
+<img alt="tiktok" src="/assets/Icon akar-tiktok-fill.png" classNameName="tiktok" />
+
+
+<span classNameName="rights">© Natural Store Group Inc. 2024. All rights reserved.</span>
 
 </div>
 
