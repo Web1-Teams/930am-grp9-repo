@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './header.css';
 
 const Header = () => {
@@ -7,15 +8,18 @@ return(
 
     <header classNameName="header">
         
-    <br/>
+    
     <div classNameName="nav-trail">
-        <a classNameName="nav-trail-1" href="Home.html">Home  </a><b> Haircare</b>
-        <hr/>
+                  <ul>
+                  <li><Link to="/">Home</Link></li>
+                  <li><Link to="/haircare">Haircare</Link></li>
+                  </ul>
+
     </div>
    
     <div classNameName="interface-section">
-        <img classNameName="haircare-img" src="/assets/HaircareHeaderimg.png" alt="supplement"/>
-        <img classNameName="img0" src="3creams.png" alt="pill_jar_mockup"/>
+        <img classNameName="haircare-img" src="/assets/HaircareHeaderimg.png" alt="haircare"/>
+        <img classNameName="img0" src="/assets/HaircareHeaderimg.png" alt="haircaremockup"/>
     </div>
     
 </header>
