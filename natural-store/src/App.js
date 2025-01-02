@@ -1,4 +1,5 @@
 import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+import './styles/global.css';
 import React from 'react';
 import NavBar from './components/NavBar/NavBar';
 import Footer from './components/Footer/footer';
@@ -6,10 +7,6 @@ import Home from './pages/Home/Home';
 import Skincare from './pages/Skincare/Skincare';
 import Haircare from './pages/Haircare/Haircare';
 import Supplements from './pages/Supplements/Supplements';
-
-
-
-
 
 
 function App() {

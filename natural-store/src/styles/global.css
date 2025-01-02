@@ -1,19 +1,15 @@
 @font-face {
-    font-family: 'CustomFont';
-    src: url('/assets/fonts/ApfelGrotezk-Regular.woff2') format('woff2');
-    font-style: normal;
-  }
-  
-  @font-face {
-    font-family: 'CustomFont';
-    src: url('/assets/fonts/ApfelGrotezk-Mittel.woff2') format('woff2');
-    font-style: normal;
-  }
-  
- 
-  body {
-    font-family: 'ApfelGrotezk';
-  
-  }
+  font-family: 'ApfelGrotezk-Regular';
+  src: url('./ApfelGrotezk-Regular.ttf') format('truetype');
+  font-style: normal;
+}
 
-  
+@font-face {
+  font-family: 'ApfelGrotezk-Mittel';
+  src: url('./ApfelGrotezk-Mittel.ttf') format('truetype');
+  font-style: normal;
+}
+
+body {
+  font-family: 'ApfelGrotezk-Regular', sans-serif;
+}
